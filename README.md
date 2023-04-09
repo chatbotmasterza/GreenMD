@@ -1,8 +1,8 @@
-# HealthConnect 
+# GreenMD
 
 ### Contribute:
 
-To contribute something to HealthConnect, please refer to our [contributing document](CONTRIBUTING.md)
+To contribute something to GreenMD, please refer to our [contributing document](CONTRIBUTING.md)
 
 ### Features:
 
@@ -36,7 +36,7 @@ The focus is on having a portable ICU, with which the medical help can be reache
 6. Click on Medical Devices on the sidebar, and follow the instructions to Add your Device.
 7. View RealTime health vitals of your your body on the Dashboard and Diagnostics.
 
-# HealthConnect Portal Interface (Patient):
+# GreenMD Portal Interface (Patient):
 
 ## Dashboard View
 
@@ -59,7 +59,7 @@ The focus is on having a portable ICU, with which the medical help can be reache
 ![image](https://user-images.githubusercontent.com/52236719/195002553-671556c7-8356-4171-a17f-c664e1bdc890.png)
 
 
-## HealthCare Visit
+## GreenMD Visit
 
 ![image](https://user-images.githubusercontent.com/52236719/195002734-a241ce00-8950-4499-b062-f71f43fa6143.png)
 
@@ -69,7 +69,7 @@ The focus is on having a portable ICU, with which the medical help can be reache
 ![image](https://user-images.githubusercontent.com/52236719/195002811-1cc831d2-71eb-4b9a-9d66-dc68e19050b8.png)
 
 
-# HealthConnect Portal Interface (Admin):
+# GreenMD Portal Interface (Admin):
 
 ## Dashboard View
 
